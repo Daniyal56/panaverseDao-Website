@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    /* flex-direction: row-reverse; */
+    justify-content: space-between;
+    /* margin-right: 0.9rem; */
+    align-items: center;
+    /* margin-top: 1rem; */
+    margin: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+.sidemenu{
+    display: flex;
+    flex-direction: row-reverse !important;
+}

@@ -1,0 +1,36 @@
+.cards{
+    position: absolute;
+    font-size: 8rem !important;
+    font-size: 3em;
+    letter-spacing: -0.02em;
+    color: #000000;
+    opacity: 0.05;
+    font-weight: 800;
+    font-size: 10rem;
+    line-height: 2rem;
+    width: 80%;
+    display: flex;
+    justify-content: end;
+}
+
+.cardDetail{
+    display: flex;
+    justify-content: space-between;
+    filter: drop-shadow(2px 4px 6px #4c9299);
+}
+.description{
+    min-width: 50%;
+}
+.cardmoreDetail{
+    display: flex;
+    justify-content: space-around;
+}
+
+.video_quarter{
+    display: flex;
+    justify-content: space-between;
+}
+
+.video_content{
+    width: 22%;
+}
